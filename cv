@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        a {
+            color: #0077b5;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sabrina Silva Mendonça</h1>
+    <p>PhD in Tropical Medicine and Public Health [focus on Computational Life Sciences]</p>
+
+    <h2>About</h2>
+    <p>Uma breve descrição sobre você, sua formação e experiência.</p>
+
+    <h2>Work Experience</h2>
+    <ul>
+        <li><strong>Natura, mediated by the Center of Excellence in Artificial Intelligence, Goiânia, Goiás, Brazil.</strong> - Research scholarship (Feb/2022 to Oct/2022)</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Doctorate in Tropical Medicine and Public Health.</strong> - Universidade Federal de Goiás (Ano)</li>
+    </ul>
+
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:sabrinamend86@gmail.com">sabrinamend86@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/sasmendonca" target="_blank">LinkedIn</a></p>
+</body>
+</html>
