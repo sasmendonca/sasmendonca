@@ -31,3 +31,7 @@ I specialize in accelerating drug discovery by combining **Artificial Intelligen
 
 ---
 *“Writing code to discover the next generation of treatments.”*
+
+---
+![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasmendonca&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasmendonca&layout=compact&theme=tokyonight)
